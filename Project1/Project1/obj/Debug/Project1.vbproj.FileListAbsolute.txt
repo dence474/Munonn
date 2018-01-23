@@ -1,0 +1,2 @@
+C:\Users\CheeKeong\Desktop\Project1\Project1\obj\Debug\Project1.vbprojResolveAssemblyReference.cache
+C:\Users\CheeKeong\Desktop\Project1\Project1\obj\Debug\Project1.vbproj.CoreCompileInputs.cache
